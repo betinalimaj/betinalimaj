@@ -1,16 +1,15 @@
 ## Hi there 👋
+Meu nome é Betina Gonçalves e atualmente estou cursando Ciência da Computação na UNESC - 4º semestre.
 
-<!--
-**betinalimaj/betinalimaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Desenvolvedora em formação, com foco em front-end utilizando Angular, Node.js e TypeScript. Tenho como objetivo me tornar uma desenvolvedora full stack, ampliando minhas competências tanto no front quanto no back-end. Possuo experiência com C++, JavaScript e Java, além de domínio em HTML e CSS, sempre buscando desenvolver interfaces funcionais e modernas. 
+</p>
 
-Here are some ideas to get you started:
+<h2>Tecnologias em Desenvolvimento:</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,ts,mysql,c,git,html,css,js,java,angular" height="60" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center">
+  <img src="https://media.tenor.com/TcrzssE_SwMAAAAi/anime-waifu.gif" width="300px"/>
+</p>
