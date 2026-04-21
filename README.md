@@ -1,5 +1,5 @@
 ## Hi there 👋
-Meu nome é Betina Gonçalves e atualmente estou cursando Ciência da Computação na UNESC - 4º semestre.
+Meu nome é Betina Lima e atualmente estou cursando Ciência da Computação na UNESC - 4º semestre.
 
 <p>Desenvolvedora em formação, com foco em front-end utilizando Angular, Node.js e TypeScript. Tenho como objetivo me tornar uma desenvolvedora full stack, ampliando minhas competências tanto no front quanto no back-end. Possuo experiência com C++, JavaScript e Java, além de domínio em HTML e CSS, sempre buscando desenvolver interfaces funcionais e modernas. 
 </p>
